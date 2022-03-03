@@ -1,5 +1,1 @@
-[![Beats's statistics](https://github-readme-stats.vercel.app/api?username=Beats-Dh&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true&hide_border=true)](#)
-
-
-
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Beats-Dh?cardType=level-alternate&theme=github-dark)](https://git.io/awesome-stats-card)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beats-Dh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
